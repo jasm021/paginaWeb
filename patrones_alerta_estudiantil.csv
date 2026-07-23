@@ -1,0 +1,62 @@
+Patron,Categoria,Nivel_Alerta,Sugerencia
+estoy reprobando,Riesgo académico,Medio,Asignar tutoría académica de revisión académica
+no entiendo la materia,Riesgo académico,Medio,Agendar sesión de acompañamiento grupal con un docente auxiliar
+voy a perder el semestre,Riesgo académico,Alto,Derivar a consejería de bienestar estudiantil y planificación
+voy a perder la materia,Riesgo académico,Alto,Coordinar plan de recuperación académica prioritario con el docente titular
+tengo muchas materias perdidas,Riesgo académico,Alto,Convocar junta académica para evaluar un plan de nivelación integral
+no voy a pasar el examen,Riesgo académico,Medio,Ofrecer sesión de refuerzo académico antes de la evaluación
+perdi el parcial,Riesgo académico,Bajo,Sugerir tutoría de repaso y técnicas de estudio
+no logro entender las clases,Riesgo académico,Medio,Agendar sesión de nivelación con el centro de aprendizaje
+voy mal en todas las materias,Riesgo académico,Alto,Citar a coordinación académica para un diagnóstico integral y plan de apoyo
+no entrego los trabajos a tiempo,Riesgo académico,Medio,Coordinar plan de gestión del tiempo con tutor académico
+estoy sacando muy malas notas,Riesgo académico,Medio,Iniciar seguimiento académico personalizado con reportes periódicos
+se me acumulan las tareas,Riesgo académico,Bajo,Compartir guía de organización y priorización de tareas académicas
+no tengo internet,Brecha digital,Medio,Gestionar préstamo de módem inalámbrico institucional o beca de conectividad
+no tengo computadora,Brecha digital,Alto,Facilitar acceso prioritario a los laboratorios de cómputo físicos
+no puedo conectarme a clases,Brecha digital,Medio,Revisar la posibilidad de entrega asincrónica con los docentes
+se me daño la laptop,Brecha digital,Alto,Facilitar préstamo temporal y prioritario de equipo desde el centro de cómputo
+no tengo datos moviles,Brecha digital,Medio,Gestionar bono de conectividad o datos móviles institucionales
+mi internet es muy lento,Brecha digital,Bajo,Informar sobre los puntos de conexión wifi disponibles en el campus
+se me corta la señal en las clases,Brecha digital,Medio,Ofrecer grabación de clases y materiales de estudio asincrónicos
+no tengo con que pagar el internet,Brecha digital,Alto,Evaluar de forma prioritaria la elegibilidad para beca de conectividad
+no tengo donde imprimir mis trabajos,Brecha digital,Bajo,Indicar los puntos de impresión gratuitos disponibles en biblioteca
+me siento excluido,Convivencia o inclusión,Medio,Invitar a participar en actividades comunitarias de integración estudiantil
+nadie me incluye,Convivencia o inclusión,Medio,Realizar seguimiento grupal de convivencia por parte del tutor
+tuve problemas con mi grupo,Convivencia o inclusión,Bajo,Proporcionar mediación de equipos de trabajo académicos
+me hacen bullying,Convivencia o inclusión,Alto,Activar protocolo institucional contra el acoso y notificar a bienestar estudiantil de forma prioritaria
+se burlan de mi en clase,Convivencia o inclusión,Alto,Iniciar proceso de convivencia escolar y brindar apoyo psicológico inmediato
+me siento solo en la universidad,Convivencia o inclusión,Medio,Vincular con la red de acompañamiento entre pares
+mis compañeros no me hablan,Convivencia o inclusión,Bajo,Fomentar dinámicas de integración grupal en el aula
+siento que me discriminan,Convivencia o inclusión,Alto,Activar protocolo de no discriminación y derivar de forma prioritaria a bienestar estudiantil
+quiero abandonar la carrera,Intención de abandono,Alto,Asignar cita prioritaria con psicología y dirección de carrera
+voy a retirarme,Intención de abandono,Alto,Coordinar una entrevista de retención y análisis de alternativas financieras
+ya no quiero seguir,Intención de abandono,Alto,Activar protocolo de rescate estudiantil y apoyo emocional continuo
+quiero dejar la universidad,Intención de abandono,Alto,Coordinar entrevista de retención prioritaria con la dirección de carrera
+voy a dar de baja mis materias,Intención de abandono,Alto,Contactar de forma prioritaria para explorar alternativas antes de la baja definitiva
+no se si seguir estudiando,Intención de abandono,Medio,Agendar consejería académica y vocacional
+estoy pensando en cambiarme de carrera,Intención de abandono,Medio,Brindar información sobre el proceso de cambio de carrera y orientación vocacional
+creo que esto no es para mi,Intención de abandono,Medio,Ofrecer sesión de orientación vocacional para evaluar alternativas
+ya no tengo motivacion,Desmotivación,Medio,Derivar a talleres de orientación vocacional y técnicas de autoestímulo
+no me siento capaz,Desmotivación,Medio,Agendar mentoría personalizada con estudiantes de semestres superiores
+no puedo mas con la carrera,Desmotivación,Alto,Establecer pausa académica sugerida o reducción de carga horaria
+siento que no avanzo,Desmotivación,Medio,Ofrecer sesión de coaching académico y establecimiento de metas
+ya no le veo sentido a estudiar,Desmotivación,Alto,Derivar a consejería vocacional con seguimiento psicológico cercano
+no tengo ganas de ir a clases,Desmotivación,Medio,Contactar para identificar causas y ofrecer alternativas de acompañamiento
+siento que no sirvo para esto,Desmotivación,Medio,Vincular con mentoría de pares y refuerzo de autoestima académica
+cada dia me cuesta mas continuar,Desmotivación,Alto,Activar seguimiento cercano y prioritario con consejería estudiantil
+necesito tutoria,Solicitud de ayuda,Bajo,Vincular directamente con el sistema automatizado de tutorías pares
+necesito ayuda,Solicitud de ayuda,Bajo,Enviar un mensaje de contacto directo desde el departamento de bienestar
+no se a quien acudir,Solicitud de ayuda,Medio,Enviar infografía con los canales oficiales de soporte institucional
+alguien me puede ayudar,Solicitud de ayuda,Bajo,Enviar mensaje de bienvenida con el directorio de servicios de apoyo
+donde puedo pedir ayuda,Solicitud de ayuda,Bajo,Compartir enlace al portal de servicios estudiantiles
+necesito hablar con alguien,Solicitud de ayuda,Medio,Ofrecer cita con orientación estudiantil o psicología
+quiero hablar con un consejero,Solicitud de ayuda,Bajo,Agendar cita con consejería académica
+necesito apoyo psicologico,Solicitud de ayuda,Medio,Derivar directamente al área de psicología estudiantil
+estoy muy estresado,Estrés académico,Medio,Inscribir en talleres prácticos de manejo del tiempo y control de la ansiedad
+no puedo dormir por estudiar,Estrés académico,Alto,Remitir al área médica especializada en salud mental e higiene del sueño
+tengo mucha ansiedad por los examenes,Estrés académico,Alto,Remitir al servicio de psicología para manejo especializado de ansiedad
+siento que no me alcanza el tiempo,Estrés académico,Medio,Ofrecer taller de gestión del tiempo y organización académica
+estoy agotado mentalmente,Estrés académico,Alto,Sugerir pausa activa y evaluación prioritaria con bienestar estudiantil
+tengo demasiadas tareas y examenes,Estrés académico,Medio,Coordinar con los docentes una revisión de la carga académica
+me siento agobiado con la carga academica,Estrés académico,Medio,Ofrecer estrategias de organización y priorización académica
+no dejo de pensar en mis examenes,Estrés académico,Medio,Vincular con taller de manejo de estrés académico
